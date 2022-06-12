@@ -235,6 +235,7 @@ var randomNumber = function(min, max) {
   
   /* END GAME FUNCTIONS */
   
+  
   /* GAME INFORMATION / VARIABLES */
   
   var playerInfo = {
