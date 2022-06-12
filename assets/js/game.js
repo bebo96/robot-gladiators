@@ -233,8 +233,8 @@ var randomNumber = function(min, max) {
     return name;
   };
   
-  /* END GAME FUNCTIONS */
   
+  /* END GAME FUNCTIONS */
   
   /* GAME INFORMATION / VARIABLES */
   
